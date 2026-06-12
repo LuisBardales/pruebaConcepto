@@ -1,4 +1,2 @@
 libgl1
-libglx-mesa0
 libgles2
-libglib2.0-0
