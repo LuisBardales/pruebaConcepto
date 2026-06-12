@@ -1,2 +1,0 @@
-# pruebaConcepto
-Prueba concepto CITE
